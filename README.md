@@ -44,6 +44,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
+<!-- Snake -->
+<div align="center">
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 <!-- Visitor Count -->
 <div align="center">
   
@@ -51,3 +60,5 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
