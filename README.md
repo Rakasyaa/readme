@@ -1,9 +1,10 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakasyaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakasyaa&theme=dark&hide_border=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakasyaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakasyaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="55%" style="border-radius: 10px;" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakasyaa&theme=highcontrast&hide_border=false" width="50%" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakasyaa&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%" style="border-radius: 10px;" /> </br>
 </div>
+
 
 <!-- Tech Stack -->
 <div align="center">
