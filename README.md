@@ -37,13 +37,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-<!-- Top Contributed Repo -->
-<div align="center">
-  
-## 🖁️ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
 <!-- Snake -->
 <div align="center">
 
@@ -51,6 +44,13 @@
 
 <img src="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/snake.svg" alt="Snake animation" />
 
+</div>
+
+<!-- Top Contributed Repo -->
+<div align="center">
+  
+## 🖁️ Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 <!-- Visitor Count -->
