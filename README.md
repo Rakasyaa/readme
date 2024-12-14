@@ -50,9 +50,14 @@
 <!-- Top Contributed Repo -->
 <div align="center">
   
-## 🖁️ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <h2 style="color: #9b4dca;">🖁️ Top Contributed Repo</h2>
+  <div style="background: linear-gradient(135deg, #9b4dca, #ff6347); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="border-radius: 10px; border: 2px solid #9b4dca;">
+  </div>
+  
 </div>
+
+
 
 <!-- Visitor Count -->
 <div align="center">
