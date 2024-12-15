@@ -36,10 +36,6 @@
   
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
-<!-- Snake -->
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/snake.svg" alt="Snake animation" />
 </div>
