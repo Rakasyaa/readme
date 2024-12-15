@@ -41,10 +41,7 @@
 <!-- Snake -->
 <div align="center">
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 <!-- Top Contributed Repo -->
@@ -54,24 +51,16 @@
   <div style="background: linear-gradient(135deg, #9b4dca, #ff6347); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="border-radius: 10px; border: 2px solid #9b4dca;">
   </div>
-  
 </div>
 
-
-
-
+ <br clear="both">
 
 <!-- Visitor Count -->
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Rakasyaa&icon=3&color=1)](https://visitcount.itsvg.in)
+
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 
 <!-- Banner -->
 <div align="center">
