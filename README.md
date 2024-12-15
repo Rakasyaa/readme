@@ -59,6 +59,8 @@
 
 
 
+
+
 <!-- Visitor Count -->
 <div align="center">
   
@@ -68,3 +70,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+
+
+
+<!-- Banner -->
+<div align="center">
+
+  ![image alt](https://github.com/Rakasyaa/Rakasyaa/blob/3a6843e3cc9288f2f0b2640d7a7247549413cc6f/2024-12-15_12-53-52.png)
+
+</div>
